@@ -1,1 +1,1 @@
-# CodeforcesAPIProject
+# Codeforces API Project
